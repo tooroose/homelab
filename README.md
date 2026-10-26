@@ -1,8 +1,8 @@
 # first ever homelab
 # System Specifications:
 - CPU: Ryzen 5 5500
-- GPU: Nvidia Geforce 1660 Super 6GB
-- RAM: 16GB G.Skill Ripjaw V (2x8GB)
+- GPU: Nvidia GeForce 1660 Super 6GB
+- RAM: 16GB G.Skill Ripjaws V (2x8GB)
 - Storage: 1TB Kingston NV2 M.2
 - PSU: Corsair RM750E
 - Case: XPG Valor Mesh
