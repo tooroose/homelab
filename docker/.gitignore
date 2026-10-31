@@ -8,6 +8,8 @@
 **/qbittorrent/appdata
 **/qbittorrent/config
 **/qbittorrent/downloads
+**/sonarr/data
+**/sonarr/tvseries
 
 # Secrets
 .env
