@@ -2,13 +2,13 @@
 # System Specifications
 - CPU: Ryzen 5 5500
 - GPU: Nvidia GeForce 1660 Super 6GB
-- RAM: 32GB G.Skill Ripjaws V (4x8B)
+- RAM: 32GB G.Skill Ripjaws V (4x8GB)
 - Storage: 1TB Kingston NV2 M.2
 - PSU: Corsair RM750E
 - Case: XPG Valor Mesh
 
 # Planned To-do list
-- [ ] Install Proxmox OS
+- [x] Install Proxmox OS
 - [ ] Tailscale
 - [ ] Jellyfin
 - [ ] UFW
@@ -16,5 +16,4 @@
 - [ ] MailArchiver
 - [ ] Immich
 - [ ] Nginx Proxy Manager
-- [ ] Moonlight
-- [ ] Test a game server (Satifactory, Minecraft)
+- [x] Test a game server (Satisfactory, Minecraft, Factorio)
