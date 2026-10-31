@@ -1,0 +1,22 @@
+services:
+  factorio-server:
+    container_name: 'factorio-server'
+    hostname: 'factorio-server'
+    image: 'factoriotools/factorio:latest'
+    ports:
+      - '34197:34197/udp'
+      - '27015:27015/tcp'
+    volumes:
+      - './factorio-server:/factorio'
+    environment:
+      - PGID=1000
+      - PUID=1000
+      - DLC_SPACE_AGE=false
+      - SAVE_NAME='SANDFUCKERS_autosave'
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 8G
+        reservations:
+          memory: 4G

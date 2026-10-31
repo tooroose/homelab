@@ -1,0 +1,7 @@
+# Ignore all game save data and volumes
+**/factorio-server/
+**/minecraft.server/
+**/satisfactory-server/
+
+# Secrets
+.env
