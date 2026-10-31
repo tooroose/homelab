@@ -2,6 +2,12 @@
 **/factorio-server/
 **/minecraft.server/
 **/satisfactory-server/
+**/jellyfin/cache
+**/jellyfin/config
+**/jellyfin/media
+**/qbittorrent/appdata
+**/qbittorrent/config
+**/qbittorrent/downloads
 
 # Secrets
 .env
